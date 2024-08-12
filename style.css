@@ -1,0 +1,28 @@
+ body {
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+canvas {
+  display: block;
+  
+  
+}
+
+.navbar {
+  background-color: #0D0D0D; /* Bright Blue */
+  color: #ffffff; /* White */
+  height: 10vh;
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
